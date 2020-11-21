@@ -1,0 +1,8 @@
+.vs/
+Debug/
+Release/
+Bin/
+*/Debug/
+*/Release/
+*.user
+
